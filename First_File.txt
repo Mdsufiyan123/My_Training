@@ -1,3 +1,3 @@
 This is temporary file 
-Used for training purpose
 I have updated file
+I am deleting one line and added this one
